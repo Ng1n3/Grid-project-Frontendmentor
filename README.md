@@ -26,6 +26,8 @@ III Screenshots
 (./images/css-grid-screenshot-frontendmentor)
 
 IV Links
+Solution URL: https://github.com/Ng1n3/Grid-project-Frontendmentor
+Live URL: https://ng1n3.github.io/Grid-project-Frontendmentor/
 
 V My process
 
